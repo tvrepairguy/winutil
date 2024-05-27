@@ -2590,5 +2590,13 @@
 		"description": "get things from one computer to another, safely",
 		"link": "https://github.com/magic-wormhole/magic-wormhole",
 		"winget": "magic-wormhole.magic-wormhole"
-	}
+	},
+	"WPFInstallnditools": {
+		"category": "Multimedia Tools",
+		"choco": "na",
+		"content": "NDI Tools",
+		"description":"NDI, or Network Device Interface, is a video connectivity standard that enables multimedia systems to identify and communicate with one another over IP and to encode, transmit, and receive high-quality, low latency, frame-accurate video and audio, and exchange metadata in real-time.",
+		"link": "https://ndi.video/",
+		"winget": "NDI.NDITools"
+    }	
 }
